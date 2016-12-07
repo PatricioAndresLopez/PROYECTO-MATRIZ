@@ -1,0 +1,7 @@
+En el presente programa se implementó en la simulacion controles logicstate para poder visualizar
+los resultados de las operaciones de la matriz cada accion esta definida en la simulacion, los tres controles 
+funcionan en alto en bajo no realizan ninguna accion. 
+Para el caso de multiplicacion de cada columna esta realizado unicamente para realizar la opracion 
+hasta la fila 10 ya que si se realiza la multiplicaion de todas las filas el numero es extremadamente 
+grande y no se puede visulizar, pero bastaria con cambiar el 10 por 20 del metodo "Multiplicacion de cada columna"
+en el ciclo para verificar el resultado que arroja el programa.  
